@@ -1,9 +1,9 @@
 #include <WiFi.h>
 
-const char* ssid = "Derb";
-const char* password = "Derbystreet47";
-const char* ifttt_key = "bUkKVtlxaqyi1w77_9x8fE";
-const char* ifttt_event = "Tank_Almost_Full";
+const char* ssid = "";
+const char* password = "";
+const char* ifttt_key = "";
+const char* ifttt_event = "";
 
 int trigpin = 3;
 int echopin = 2;
